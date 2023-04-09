@@ -28,12 +28,7 @@
 export default {};
 </script>
 
-<style lang="scss" scoped>
-// .banner {
-//   background-image: url("../../public/serenegarden2.png");
-//   background-size: cover;
-//   height: 200px;
-// }
+<style lang="css" scoped>
 .title {
   padding-top: 70px;
   font-weight: bold;

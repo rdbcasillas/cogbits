@@ -64,7 +64,7 @@
 export default {};
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
 .aligner {
   text-align: left;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",

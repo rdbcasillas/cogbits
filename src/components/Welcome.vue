@@ -37,7 +37,7 @@
 export default {};
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
 .landing-page {
   background-color: #f5f5f5;
   font-family: sans-serif;

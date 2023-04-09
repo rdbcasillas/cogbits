@@ -24,7 +24,7 @@
 export default {};
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
 .navbar {
   background-color: transparent;
   margin-left: 2rem;

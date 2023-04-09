@@ -31,11 +31,12 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  background-image: linear-gradient(
+  background: snow;
+  /* background-image: linear-gradient(
     to bottom,
     rgba(0, 162, 255, 0.5),
     rgba(57, 57, 166, 0.5)
-  );
+  ); */
 }
 
 /* body {

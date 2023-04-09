@@ -6,8 +6,8 @@
           <div>
             <h1 class="title">Socratic Compass</h1>
             <h4>
-              Transform your problem-solving abilities with our cohort-based
-              course.
+              Build more accurate maps and transform your problem-solving
+              abilities with our cohort-based courses.
             </h4>
           </div>
 

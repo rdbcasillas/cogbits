@@ -1,14 +1,6 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-sm ml-3">
-      <a class="navbar-brand" href="#"
-        ><b-img
-          rounded
-          alt="Rounded image"
-          src="..//assets/logo.png"
-          height="30px"
-        ></b-img>
-      </a>
       <span class="title">Socratic Compass</span>
       <!-- <ul class="navbar-nav">
         <li class="nav-item">
